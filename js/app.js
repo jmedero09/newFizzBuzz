@@ -1,5 +1,5 @@
 var x = parseInt(prompt("Put in a number"));
-document.write(x);
+//document.write(x);
 function fizz(number){
 	
 
